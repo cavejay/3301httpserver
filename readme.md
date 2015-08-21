@@ -1,7 +1,3 @@
-## List of things I need to do.
+# A Simple HTTP/1.0 server built for OpenBSD 5.7
 
-- Handle the pipe closing with an event
-- respond with appropriate errors
-- load and return file
-- handle addresses
-- handle named ports
+This was an assignment for UQ's COMP3301
